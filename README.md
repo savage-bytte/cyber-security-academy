@@ -1,2 +1,2 @@
 # cyber-security-academy
-Tips, lessons, and resources to help people stay safe online
+Welcome! This repository shares daily cybersecurity tips, resources, and best practices to help everyone stay safe online.
